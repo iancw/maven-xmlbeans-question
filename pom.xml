@@ -5,7 +5,7 @@
   <groupId>net.opengis</groupId>
   <artifactId>ogc-kml</artifactId>
   <version>2.2.0</version>
-  <packaging>pom</packaging>
+  <packaging>jar</packaging>
   <name>ogc-kml</name>
 
   <build>
